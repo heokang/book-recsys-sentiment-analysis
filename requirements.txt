@@ -1,0 +1,18 @@
+# Web Crawling
+requests
+beautifulsoup4
+
+# Sentiment Analysis
+transformers
+torch
+scikit-learn
+pandas
+tqdm
+
+# Recommendation System
+scikit-surprise
+
+# General
+numpy
+matplotlib
+seaborn
