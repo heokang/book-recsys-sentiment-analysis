@@ -9,5 +9,5 @@ Sentiment Analysis: Fine-tuned a Korean BERT model (kykim/bert-kor-base) on doma
 
 Recommendation: Applied collaborative filtering algorithms (SVD, KNN) using sentiment-based user-book matrices.
 
-NOTE
+NOTE:
 This project is a prototype created for learning purposes.
