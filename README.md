@@ -8,3 +8,6 @@ Goal: Understand user preferences and emotional reactions from review texts to i
 Sentiment Analysis: Fine-tuned a Korean BERT model (kykim/bert-kor-base) on domain-specific book review expressions.
 
 Recommendation: Applied collaborative filtering algorithms (SVD, KNN) using sentiment-based user-book matrices.
+
+NOTE
+This project is a prototype created for learning purposes.
